@@ -1,7 +1,6 @@
 
 name: Java CI with Maven and Analysis
- 
- 
+  
 on:
   push:
     branches: [ "master" ]
